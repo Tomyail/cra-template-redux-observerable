@@ -43,7 +43,7 @@
     "moment": "^2.24.0",
     "pino": "^5.14.0",
     "qs": "6.9.1",
-    "react-router-dom": "^5.0.1",
+    "react-router-dom": "5.2.0",
     "redux-observable": "^1.2.0",
     "rxjs": "^6.5.3",
     "uuid": "^3.3.3"
